@@ -47,7 +47,7 @@ module.exports = (env, argv) => {
     },
     resolve: {
       alias: {
-        jsartoolkit: '@ar-js-org/artoolkit5-js',
+        jsartoolkit: '@hatsumatsu/artoolkit5-js',
         threexArmarkercontrols$: path.resolve(__dirname, 'three.js/src/threex/arjs-markercontrols.js')
       }
     },
@@ -67,7 +67,7 @@ module.exports = (env, argv) => {
     },
     resolve: {
       alias: {
-        jsartoolkit: '@ar-js-org/artoolkit5-js',
+        jsartoolkit: '@hatsumatsu/artoolkit5-js',
         threexArmarkercontrols$: path.resolve(__dirname, 'three.js/src/threex/arjs-markercontrols-nft.js')
       }
     },
@@ -87,7 +87,7 @@ module.exports = (env, argv) => {
     },
     resolve: {
       alias: {
-        jsartoolkit: '@ar-js-org/artoolkit5-js',
+        jsartoolkit: '@hatsumatsu/artoolkit5-js',
         threexArmarkercontrols$: path.resolve(__dirname, 'three.js/src/threex/arjs-markercontrols-nft.js')
       }
     },
@@ -107,7 +107,7 @@ module.exports = (env, argv) => {
     },
     resolve: {
       alias: {
-        jsartoolkit: '@ar-js-org/artoolkit5-js',
+        jsartoolkit: '@hatsumatsu/artoolkit5-js',
         threexArmarkercontrols$: path.resolve(__dirname, 'three.js/src/threex/arjs-markercontrols.js')
       }
     },
@@ -134,7 +134,7 @@ module.exports = (env, argv) => {
     },
     resolve: {
       alias: {
-        jsartoolkit: '@ar-js-org/artoolkit5-js',
+        jsartoolkit: '@hatsumatsu/artoolkit5-js',
         threexArmarkercontrols$: path.resolve(__dirname, 'three.js/src/threex/arjs-markercontrols-nft.js')
       }
     },
@@ -161,7 +161,7 @@ module.exports = (env, argv) => {
     },
     resolve: {
       alias: {
-        jsartoolkit: '@ar-js-org/artoolkit5-js',
+        jsartoolkit: '@hatsumatsu/artoolkit5-js',
         threexArmarkercontrols$: path.resolve(__dirname, 'three.js/src/threex/arjs-markercontrols.js')
       }
     },
@@ -188,7 +188,7 @@ module.exports = (env, argv) => {
     },
     resolve: {
       alias: {
-        jsartoolkit: '@ar-js-org/artoolkit5-js',
+        jsartoolkit: '@hatsumatsu/artoolkit5-js',
         threexArmarkercontrols$: path.resolve(__dirname, 'three.js/src/threex/arjs-markercontrols-nft.js')
       }
     },
