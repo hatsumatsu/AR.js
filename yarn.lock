@@ -22,9 +22,9 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.2.tgz#8f03a22a04de437254e8ce8cc84ba39689288752"
   integrity sha512-HyYEUDeIj5rRQU2Hk5HTB2uHsbRQpF70nvMhVzi+VJR0X+xNEhjPui4/kBf3VeH/wqD28PT4sVOm8qqLjBrSZg==
 
-"@hatsumatsu/artoolkit5-js@https://github.com/hatsumatsu/artoolkit5-js.git#0966466ae771e3fa6d59147baa436421c0c399e0":
+"@hatsumatsu/artoolkit5-js@https://github.com/hatsumatsu/artoolkit5-js.git#15c978e3c65569b9896532e11eb9f78babfa123e":
   version "0.0.5"
-  resolved "https://github.com/hatsumatsu/artoolkit5-js.git#0966466ae771e3fa6d59147baa436421c0c399e0"
+  resolved "https://github.com/hatsumatsu/artoolkit5-js.git#15c978e3c65569b9896532e11eb9f78babfa123e"
   dependencies:
     "@babel/runtime" "^7.8.4"
     axios "^0.19.2"
@@ -370,7 +370,7 @@ debug@=3.1.0:
   dependencies:
     ms "2.0.0"
 
-"debug@github:ngokevin/debug#noTimestamp":
+debug@ngokevin/debug#noTimestamp:
   version "2.2.0"
   resolved "https://codeload.github.com/ngokevin/debug/tar.gz/ef5f8e66d49ce8bc64c6f282c15f8b7164409e3a"
 
@@ -393,7 +393,7 @@ deep-assign@^2.0.0:
   dependencies:
     is-obj "^1.0.0"
 
-"document-register-element@github:dmarcos/document-register-element#8ccc532b7f3744be954574caf3072a5fd260ca90":
+document-register-element@dmarcos/document-register-element#8ccc532b7f3744be954574caf3072a5fd260ca90:
   version "0.5.4"
   resolved "https://codeload.github.com/dmarcos/document-register-element/tar.gz/8ccc532b7f3744be954574caf3072a5fd260ca90"
 
@@ -1126,7 +1126,7 @@ terser@^5.5.1:
     source-map "~0.7.2"
     source-map-support "~0.5.19"
 
-"three-bmfont-text@github:dmarcos/three-bmfont-text#1babdf8507c731a18f8af3b807292e2b9740955e":
+three-bmfont-text@dmarcos/three-bmfont-text#1babdf8507c731a18f8af3b807292e2b9740955e:
   version "2.3.0"
   resolved "https://codeload.github.com/dmarcos/three-bmfont-text/tar.gz/1babdf8507c731a18f8af3b807292e2b9740955e"
   dependencies:
