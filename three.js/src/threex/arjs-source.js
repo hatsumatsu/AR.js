@@ -194,7 +194,8 @@ Source.prototype._initSourceWebcam = function (onReady, onError) {
                     ideal: _this.parameters.sourceHeight,
                     // min: 776,
                     // max: 1080
-                }
+                },
+                aspectRatio: 4/3
             }
         };
 
