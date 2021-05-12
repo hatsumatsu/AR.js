@@ -186,9 +186,11 @@ Source.prototype._initSourceWebcam = function (onReady, onError) {
             video: {
                 facingMode: 'environment',
                 width: {
-                    ideal: _this.parameters.sourceWidth,
+                    exact: _this.parameters.sourceWidth,
                 },
-                aspectRatio: 4/3
+                height: {
+                    exact: _this.parameters.sourceHeight,
+                },            
             }
         };
 
