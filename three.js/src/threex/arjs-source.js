@@ -186,11 +186,15 @@ Source.prototype._initSourceWebcam = function (onReady, onError) {
             video: {
                 facingMode: 'environment',
                 width: {
-                    exact: _this.parameters.sourceWidth,
+                    ideal: _this.parameters.sourceWidth,
+                    // min: 1024,
+                    // max: 1920
                 },
                 height: {
-                    exact: _this.parameters.sourceHeight,
-                },            
+                    ideal: _this.parameters.sourceHeight,
+                    // min: 776,
+                    // max: 1080
+                }
             }
         };
 
